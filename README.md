@@ -97,7 +97,7 @@ endmodule
 ```
 ## Simulated Output
 
-<img width="1919" height="1079" alt="EXP 2" src="https://github.com/user-attachments/assets/e260bc4f-0384-4c2b-b7ac-7a0ced0694a0" />
+<img width="1919" height="1079" alt="EXP 2" src="https://github.com/user-attachments/assets/24393a91-c0e8-4e82-b360-126632e9109b" />
 
 ---
 
